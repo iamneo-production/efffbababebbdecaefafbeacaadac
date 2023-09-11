@@ -1,0 +1,15 @@
+form
+	{
+		height : 500px;
+		width : 400px;
+		border : solid;
+	}
+	#password
+	{
+		width :400px;
+	}
+	#main
+	{
+		margin : 0 auto;
+		width : 250px;
+	}
